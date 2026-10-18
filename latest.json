@@ -1,8 +1,8 @@
 {
-  "version": "0.2.8",
-  "sha256": "c6b3bd4e5b5985943cd4c64d7b284ff81e70c65dcc5365e9c9e3008f96e448cb",
-  "notes": "CodexBridge 0.2.8\n- 更新检查改为手动触发，打开网页不再自动请求更新源。\n- 更新源改为公开静态 latest.json，不调用 GitHub API，也不需要 GitHub Token。\n- 更新清单和检查结果缓存 10 分钟。\n- 设置页移除 GitHub Token 输入，首次安装只需要 DeepSeek Key。\n- 保留 SHA256 校验、一键安装、重启恢复和失败清理。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.8/codexbridge-update.zip",
-  "size": 1168775,
-  "publishedAt": "2026-10-18T04:08:30.7256887+00:00"
+  "version": "0.2.15",
+  "sha256": "f235493b7c886c4345bef754f844a8c470c122b2a5eddc723fced2c14f897c0f",
+  "notes": "CodexBridge 0.2.15\n- 单一 CodexBridge 托盘，保留本地对话、重启、退出等桥接功能。\n- 新增网页截图设置、Alt+A 自动窗口截图、滚轮放大镜、双击复制和中键贴图。\n- 截图选区单击可固定自动识别窗口，拖动可手动框选。\n- OCR 和翻译关闭 thinking，避免空结果并减少等待；翻译改为单次视觉请求。\n- 翻译结果覆盖原选区，支持鼠标选字、Ctrl+A、Ctrl+C、双击复制原图、标题栏拖动和 Esc 关闭。\n- 保存默认写入桌面，升级时自动结束旧托盘避免文件占用。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.15/codexbridge-update.zip",
+  "size": 1225698,
+  "publishedAt": "2026-10-18T05:14:29.0614706+00:00"
 }
