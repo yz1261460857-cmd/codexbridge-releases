@@ -1,0 +1,8 @@
+{
+  "version": "0.2.8",
+  "sha256": "c6b3bd4e5b5985943cd4c64d7b284ff81e70c65dcc5365e9c9e3008f96e448cb",
+  "notes": "CodexBridge 0.2.8\n- 更新检查改为手动触发，打开网页不再自动请求更新源。\n- 更新源改为公开静态 latest.json，不调用 GitHub API，也不需要 GitHub Token。\n- 更新清单和检查结果缓存 10 分钟。\n- 设置页移除 GitHub Token 输入，首次安装只需要 DeepSeek Key。\n- 保留 SHA256 校验、一键安装、重启恢复和失败清理。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.8/codexbridge-update.zip",
+  "size": 1168775,
+  "publishedAt": "2026-10-18T04:08:30.7256887+00:00"
+}
