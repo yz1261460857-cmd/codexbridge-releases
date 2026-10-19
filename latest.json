@@ -1,8 +1,8 @@
 {
-  "version": "0.2.15",
-  "sha256": "f235493b7c886c4345bef754f844a8c470c122b2a5eddc723fced2c14f897c0f",
-  "notes": "CodexBridge 0.2.15\n- 单一 CodexBridge 托盘，保留本地对话、重启、退出等桥接功能。\n- 新增网页截图设置、Alt+A 自动窗口截图、滚轮放大镜、双击复制和中键贴图。\n- 截图选区单击可固定自动识别窗口，拖动可手动框选。\n- OCR 和翻译关闭 thinking，避免空结果并减少等待；翻译改为单次视觉请求。\n- 翻译结果覆盖原选区，支持鼠标选字、Ctrl+A、Ctrl+C、双击复制原图、标题栏拖动和 Esc 关闭。\n- 保存默认写入桌面，升级时自动结束旧托盘避免文件占用。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.15/codexbridge-update.zip",
-  "size": 1225698,
-  "publishedAt": "2026-10-18T05:14:29.0614706+00:00"
+    "version":  "0.2.16",
+    "sha256":  "897f5dfe7c9e200939294405451ba0a615a51e72a0a7d2fc9775ae276a038584",
+    "notes":  "CodexBridge 0.2.16\n- 托盘、程序文件和桌面捷径统一换成新的鲸鱼图标。\n- 打开本地网页时自动确保 CodexBridge 托盘已经启动。\n- 桌面“本地对话”入口在启动桥接后同步拉起托盘。\n- 托盘“重启桥接”改为直接调用 Windows 控制脚本，不再依赖网页接口。\n- 托盘“退出桥接”直接停止 Node 服务与托盘进程，即使网页服务卡住也能执行。\n- 桥接离线时从托盘打开本地对话会自动启动服务并等待恢复。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.16/codexbridge-update.zip",
+    "size":  1492625,
+    "publishedAt":  "2026-10-19T10:00:07.0750545+00:00"
 }
