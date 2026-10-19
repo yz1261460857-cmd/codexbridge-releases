@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.16",
-    "sha256":  "897f5dfe7c9e200939294405451ba0a615a51e72a0a7d2fc9775ae276a038584",
-    "notes":  "CodexBridge 0.2.16\n- 托盘、程序文件和桌面捷径统一换成新的鲸鱼图标。\n- 打开本地网页时自动确保 CodexBridge 托盘已经启动。\n- 桌面“本地对话”入口在启动桥接后同步拉起托盘。\n- 托盘“重启桥接”改为直接调用 Windows 控制脚本，不再依赖网页接口。\n- 托盘“退出桥接”直接停止 Node 服务与托盘进程，即使网页服务卡住也能执行。\n- 桥接离线时从托盘打开本地对话会自动启动服务并等待恢复。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.16/codexbridge-update.zip",
-    "size":  1492625,
-    "publishedAt":  "2026-10-19T10:00:07.0750545+00:00"
+    "version":  "0.2.17",
+    "sha256":  "a6c3cd28cd3eee69a39717321e782bfb2b07ded75e82ffd60931a137d6c12da0",
+    "notes":  "CodexBridge 0.2.17\n- 修复桌面快捷方式图标不更新的问题：安装/升级后会指向桥接自带图标。\n- 托盘、程序文件和桌面捷径统一使用新的鲸鱼图标。\n- 保留 0.2.16 的本地对话启动链路改进。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.17/codexbridge-update.zip",
+    "size":  1492669,
+    "publishedAt":  "2026-10-19T10:04:44.6570151+00:00"
 }
