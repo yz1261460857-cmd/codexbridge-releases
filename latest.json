@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.17",
-    "sha256":  "a6c3cd28cd3eee69a39717321e782bfb2b07ded75e82ffd60931a137d6c12da0",
-    "notes":  "CodexBridge 0.2.17\n- 修复桌面快捷方式图标不更新的问题：安装/升级后会指向桥接自带图标。\n- 托盘、程序文件和桌面捷径统一使用新的鲸鱼图标。\n- 保留 0.2.16 的本地对话启动链路改进。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.17/codexbridge-update.zip",
-    "size":  1492669,
-    "publishedAt":  "2026-10-19T10:04:44.6570151+00:00"
+    "version":  "0.2.18",
+    "sha256":  "27e256f130f8af2c3089f08244db33fc87764cae87c21618ba4ea10f2696839b",
+    "notes":  "CodexBridge 0.2.18\n- 安装器本身也换成鲸鱼图标。\n- 更新包只保留安装程序，不再附带安装说明和关闭脚本。\n- 安装/升级后的桌面快捷方式指向桥接自带图标（0.2.17 已修）。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.18/codexbridge-update.zip",
+    "size":  1663794,
+    "publishedAt":  "2026-10-19T10:07:44.1856697+00:00"
 }
