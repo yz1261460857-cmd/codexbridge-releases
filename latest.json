@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.18",
-    "sha256":  "27e256f130f8af2c3089f08244db33fc87764cae87c21618ba4ea10f2696839b",
-    "notes":  "CodexBridge 0.2.18\n- 安装器本身也换成鲸鱼图标。\n- 更新包只保留安装程序，不再附带安装说明和关闭脚本。\n- 安装/升级后的桌面快捷方式指向桥接自带图标（0.2.17 已修）。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.18/codexbridge-update.zip",
-    "size":  1663794,
-    "publishedAt":  "2026-10-19T10:07:44.1856697+00:00"
+    "version":  "0.2.19",
+    "sha256":  "f837fde3c6c4b2ba9ea728068c693a8153e3111920dabd9ff1e1299c5148b99f",
+    "notes":  "CodexBridge 0.2.19\n- 图片不再进入对话，改为按路径调用看图脚本，避免截图撑爆 32MB 请求体。\n- 每次回复附带上下文占用，方便判断何时换新对话。\n- 微信账号按最近一次扫码自动识别，修复重启后掉线的问题。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.19/codexbridge-update.zip",
+    "size":  1667272,
+    "publishedAt":  "2026-10-19T10:57:08.3601248+00:00"
 }
