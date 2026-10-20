@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.43",
-    "sha256":  "319809f6e49840470121a941f692e33ab77231cc1fe970f23725bca96e8cb391",
-    "notes":  "CodexBridge 0.2.43\n- 补齐 0.2.39–0.2.42 的更新记录，安装后可在「更新记录」里看到每一版改了什么。\n- 统一更新记录的排版格式。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.43/codexbridge-update.zip",
-    "size":  1683843,
-    "publishedAt":  "2026-10-20T10:06:40.8742005+00:00"
+  "version": "0.2.44",
+  "sha256": "f73f205cc27ec8e2e744f5007e0fddfe5f7df06fcc453b8ad045991a7ee704b4",
+  "notes": "CodexBridge 0.2.44\n- 处理中再发消息会直接插进当前这轮，不再被「正在处理」挡回。\n- 忙时回复「停止」或 /stop 真正能停住，不再被忙状态拒绝。\n- 网页对话窗口在处理中仍可输入，回车即插入当前这轮。\n- 网页端发送按钮在处理中变成停止按钮，点一下就中断。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.44/codexbridge-update.zip",
+  "size": 1686768,
+  "publishedAt": "2026-10-20T17:52:34.2152275+00:00"
 }
