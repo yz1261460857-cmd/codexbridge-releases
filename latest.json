@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.32",
-    "sha256":  "786d468de12617e5680f1fe9f4df1e44e945c83027a7982f67f1952673c2c741",
-    "notes":  "CodexBridge 0.2.32\n- 截图翻译改为原位覆盖：RapidOCR 识别每行坐标，按位置贴中文，保留原布局。\n- 翻译按序号配对，修复多行错位；中英混排参与翻译，中文原样保留。\n- OCR 改为常驻进程，模型只加载一次；未安装 RapidOCR 时回退 Windows OCR。\n- 译文按原框自动换行并缩字号；低置信度乱码块直接丢弃。\n- 翻译浮层默认常驻置顶，点其他窗口不关闭；新增滚轮缩放、拖动、双击复制图片。\n- 微信登录状态重启后正确显示；网页右上角显示微信已连接/未连接。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.32/codexbridge-update.zip",
-    "size":  1674504,
-    "publishedAt":  "2026-10-20T04:35:40.8418850+00:00"
+    "version":  "0.2.33",
+    "sha256":  "df5409d2926e669e61e99a3b879eae76394d5c2f510e808e616e258fb7409377",
+    "notes":  "CodexBridge 0.2.33\n- 截图翻译原位覆盖：RapidOCR 取每行坐标，按位置贴中文，保留原布局。\n- 按序号配对翻译，混排中英文本参与翻译，中文原样保留。\n- OCR 常驻进程，模型只加载一次；未装 RapidOCR 时回退 Windows OCR。\n- 译文自动换行缩字号；低置信乱码块丢弃。\n- 翻译浮层默认常驻置顶，滚轮缩放、拖动、双击复制图片。\n- 修正安装包内版本号与发布版本不一致的问题。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.33/codexbridge-update.zip",
+    "size":  1674634,
+    "publishedAt":  "2026-10-20T04:37:47.0623597+00:00"
 }
