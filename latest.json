@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.33",
-    "sha256":  "df5409d2926e669e61e99a3b879eae76394d5c2f510e808e616e258fb7409377",
-    "notes":  "CodexBridge 0.2.33\n- 截图翻译原位覆盖：RapidOCR 取每行坐标，按位置贴中文，保留原布局。\n- 按序号配对翻译，混排中英文本参与翻译，中文原样保留。\n- OCR 常驻进程，模型只加载一次；未装 RapidOCR 时回退 Windows OCR。\n- 译文自动换行缩字号；低置信乱码块丢弃。\n- 翻译浮层默认常驻置顶，滚轮缩放、拖动、双击复制图片。\n- 修正安装包内版本号与发布版本不一致的问题。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.33/codexbridge-update.zip",
-    "size":  1674634,
-    "publishedAt":  "2026-10-20T04:37:47.0623597+00:00"
+    "size":  1674764,
+    "version":  "0.2.34",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.34/codexbridge-update.zip",
+    "sha256":  "37b0fb0b0360c82f72af3aa01b8b642b42ee5c0f5d10580fca1e6e05adf203d8",
+    "publishedAt":  "2026-10-20T09:19:55Z",
+    "notes":  "CodexBridge 0.2.34\n- 升级流程加固：停止脚本会一并结束常驻的 Python OCR 进程，避免文件被占用。\n- 停止脚本 45 秒超时后强制结束并继续，不再卡在「正在重启桥接服务」。\n- 保留 0.2.33 的全部功能：截图翻译原位覆盖、RapidOCR、按行配对、浮层常驻置顶。"
 }
