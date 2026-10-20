@@ -1,8 +1,8 @@
 {
-    "size":  1675740,
-    "version":  "0.2.36",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.36/codexbridge-update.zip",
-    "sha256":  "b75587e8587e34c85c8d75ec0f600cd9355c63e5893fd920ccb956cbc8590a99",
-    "publishedAt":  "2026-10-20T09:24:34Z",
-    "notes":  "CodexBridge 0.2.36\n- 安装或升级失败时，自动上传日志并在弹窗里给出链接（无需手动运行脚本）。\n- 上传前自动脱敏：微信账号、API Key 打码。\n- 修复升级卡在「正在重启桥接服务」：停止脚本 45 秒超时强制结束，并清理常驻的 Python OCR 进程。"
+    "version":  "0.2.42",
+    "sha256":  "2d83f983e2ce2acbae311115adb6d45d5c61d4c73bc475bd000b84fa5ec603f8",
+    "notes":  "CodexBridge 0.2.42\n- 安装/升级成功后自动删除所有旧安装包，只保留当前这个（范围：安装目录、安装包所在目录、桌面、下载、文档）。\n- 升级前备份 src/scripts 到安装目录下 backup\\，失败自动还原，桥接仍可正常打开。\n- 失败弹窗支持一键复制日志链接。\n- 修复此前安装包漏打包 ocr_client.ts 与 scripts/ocr 导致服务启动即崩的问题。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.42/codexbridge-update.zip",
+    "size":  1683600,
+    "publishedAt":  "2026-10-20T09:40:39.5403428+00:00"
 }
