@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.45",
-    "sha256":  "c44bfb1db1b343e2e68732b8217f48f1bd8639fc423ec681846064f6be93c0f8",
-    "notes":  "0.2.45 本地网页三页改版\n- 会话列表 → 聊天 → 我，聊天页顶部可返回列表\n- 截图变成插件（默认关闭），在「我 → 插件」里开关\n- 打开插件提示重启，页面带「立即重启桥接」\n- 插件关闭时截图接口与设置页不响应\n- 托盘「截图」菜单与快捷键跟着插件开关",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.45/codexbridge-update.zip",
-    "size":  1693992,
-    "publishedAt":  "2026-10-22T12:42:27.4971573+00:00"
+  "version": "0.2.48",
+  "sha256": "03d9f5d5c33cd842dcf73a7bc9cbba487595d7f551a020d0be019df0ef136dbe",
+  "notes": "CodexBridge 0.2.48\n- 会话列表新增「+ 新建对话」：新会话和旧会话互不影响，网页切会话不会改变微信那边正在用的会话。\n- 点会话行会先在后台切换绑定，再进入聊天页，不会再看到上一轮的内容。\n- 桥接设置新增卸载区：保留会话记录卸载、彻底卸载，两种都先停服务，再按清单逐项删除。\n- 卸载前会先把清单列出来：删什么、多大、哪些是共享组件一律不动（全局 codex、系统运行库、PATH）。\n- 删除过程逐项写日志，日志路径直接显示在页面上，失败的项目一眼能看出来。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.48/codexbridge-update.zip",
+  "size": 1709027,
+  "publishedAt": "2026-10-22T17:12:21.4768143+00:00"
 }
