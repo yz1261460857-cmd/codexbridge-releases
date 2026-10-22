@@ -1,8 +1,8 @@
 {
-  "version": "0.2.44",
-  "sha256": "f73f205cc27ec8e2e744f5007e0fddfe5f7df06fcc453b8ad045991a7ee704b4",
-  "notes": "CodexBridge 0.2.44\n- 处理中再发消息会直接插进当前这轮，不再被「正在处理」挡回。\n- 忙时回复「停止」或 /stop 真正能停住，不再被忙状态拒绝。\n- 网页对话窗口在处理中仍可输入，回车即插入当前这轮。\n- 网页端发送按钮在处理中变成停止按钮，点一下就中断。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.44/codexbridge-update.zip",
-  "size": 1686768,
-  "publishedAt": "2026-10-20T17:52:34.2152275+00:00"
+    "version":  "0.2.45",
+    "sha256":  "c44bfb1db1b343e2e68732b8217f48f1bd8639fc423ec681846064f6be93c0f8",
+    "notes":  "0.2.45 本地网页三页改版\n- 会话列表 → 聊天 → 我，聊天页顶部可返回列表\n- 截图变成插件（默认关闭），在「我 → 插件」里开关\n- 打开插件提示重启，页面带「立即重启桥接」\n- 插件关闭时截图接口与设置页不响应\n- 托盘「截图」菜单与快捷键跟着插件开关",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.45/codexbridge-update.zip",
+    "size":  1693992,
+    "publishedAt":  "2026-10-22T12:42:27.4971573+00:00"
 }
