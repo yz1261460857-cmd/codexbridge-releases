@@ -1,8 +1,8 @@
 {
-  "version": "0.2.49",
-  "sha256": "38d86eeb68e21ff3f41fddc019a131da5b15cd8bc21a50fcdd5b2105a12557a7",
-  "notes": "0.2.49：应用中心上线（柜子/截图一键安装卸载导出、导入第三方安装包、进度条、详情页单独检查更新）；截图独立成 SnipStudio（独立托盘、记号笔、箭头、OCR/翻译直连 DeepSeek）；SnipStudio 换相机图标；移除旧截图插件区。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.49/codexbridge-update.zip",
-  "size": 3550024,
-  "publishedAt": "2026-10-22T20:50:59.3241417+00:00"
+  "version": "0.2.50",
+  "sha256": "2ec8c1194445bef5fe8182f3e5a5dbf1a4245d840e640c2c88d50da1eec4edba",
+  "notes": "0.2.50：截图（SnipStudio）换成专属相机图标（绿底白相机 + 实心绿镜头），修复小尺寸图标模糊；其余功能同 0.2.49（应用中心、进度条、应用详情页、截图独立化）。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.50/codexbridge-update.zip",
+  "size": 3552956,
+  "publishedAt": "2026-10-22T21:04:12.2089844+00:00"
 }
