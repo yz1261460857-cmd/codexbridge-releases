@@ -1,17 +1,6 @@
 {
-  "version": 1,
-  "apps": [
-    {
-      "id": "app-test-greenapp-91e1",
-      "name": "_test_greenapp",
-      "description": "第三方导入的绿色软件：安装=解压到本地程序目录，卸载=删除目录",
-      "version": "0.1.1",
-      "packaging": "folder",
-      "assetName": "app-test-greenapp-91e1-v0.1.1.zip",
-      "size": 250,
-      "sha256": "7d20efb752d7496abfafc02973162548be687a6c6dee3b70e21b22cfe9ccbcf7",
-      "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-app-test-greenapp-91e1/app-test-greenapp-91e1-v0.1.1.zip",
-      "updatedAt": 1792740086634
-    }
-  ]
+    "version":  1,
+    "apps":  [
+
+             ]
 }
