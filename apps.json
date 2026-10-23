@@ -48,6 +48,18 @@
       "sha256": "fdd4dfe60eeae023316a989c59f900f9a155a929cf14fc0ee44c959782502692",
       "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-pureref-1-11-1-x64-4b37/PureRef-1.11.1_x64.exe",
       "updatedAt": 1792740215170
+    },
+    {
+      "id": "app-potplayersetup64-a8c6",
+      "name": "PotPlayerSetup64",
+      "description": "第三方导入的安装包：安装=启动安装包，卸载=打开控制面板",
+      "version": "0.1.0",
+      "packaging": "installer",
+      "assetName": "PotPlayerSetup64.exe",
+      "size": 28362840,
+      "sha256": "c54f447ccd217cb07aca6199722054dd0e2ae97b07aa946192cd4e21b3db7b68",
+      "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-potplayersetup64-a8c6/PotPlayerSetup64.exe",
+      "updatedAt": 1792740228750
     }
   ]
 }
