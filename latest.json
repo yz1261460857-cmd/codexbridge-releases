@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.58",
-    "sha256":  "4027f12ca0d262547ba2bbd06bc63b2902fdc3895851b6fae59c444d6540d22e",
-    "notes":  "0.2.58：修复本地对话启动方式（不再用 WMI，避免被火绒拦截）；新增心跳日志便于定位掉线时刻。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.58/codexbridge-update.zip",
-    "size":  5208879,
-    "publishedAt":  "2026-10-23T13:18:56.5453763+00:00"
+    "version":  "0.2.59",
+    "sha256":  "803b249dbd4cdee8f44cfea111efa373ce2d36147eb12242e59a4dee29bae82e",
+    "notes":  "0.2.59：启动方式改为系统计划任务托管（CodexBridge-Serve，登录自启、wscript 隐藏窗口、掉线自动重启），安装/升级自动注册并清理旧 Run 自启项，卸载时注销任务。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.59/codexbridge-update.zip",
+    "size":  5210139,
+    "publishedAt":  "2026-10-23T14:03:12.3063500+00:00"
 }
