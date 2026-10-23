@@ -12,6 +12,18 @@
       "sha256": "231f2b6767f917d418c16685da03e3c4e5d505a5793554c8af76590e203a2f13",
       "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-geek-3636/geek.exe",
       "updatedAt": 1792740181753
+    },
+    {
+      "id": "app-bandizip-setup-713f",
+      "name": "BANDIZIP-SETUP",
+      "description": "第三方导入的安装包：安装=启动安装包，卸载=打开控制面板",
+      "version": "0.1.0",
+      "packaging": "installer",
+      "assetName": "BANDIZIP-SETUP.EXE",
+      "size": 6545512,
+      "sha256": "2f555765b9cfca024fad86486079718ef91674a3ee8482c0aa7e5cd48fa773e2",
+      "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-bandizip-setup-713f/BANDIZIP-SETUP.EXE",
+      "updatedAt": 1792740198287
     }
   ]
 }
