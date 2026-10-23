@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.55",
-    "sha256":  "42585440a4808c413d165b8e4380a65146821fe3b28a1f4bd514f155475f58c9",
-    "notes":  "0.2.55：崩溃日志 + /api/diag 诊断接口 + 页面请求重试与真实报错 + 修复应用图标字面量转义。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.55/codexbridge-update.zip",
-    "size":  5186909,
-    "publishedAt":  "2026-10-23T12:39:23.3747497+00:00"
+    "version":  "0.2.56",
+    "sha256":  "31f51814ea97efa9043e6fbce14dafffa3af78a945e5b09826e453e06ccca3e7",
+    "notes":  "修复「本地对话」快捷方式误触发旧计划任务导致桥接退出的问题",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.56/codexbridge-update.zip",
+    "size":  5187046,
+    "publishedAt":  "2026-10-23T12:47:12.2738098+00:00"
 }
