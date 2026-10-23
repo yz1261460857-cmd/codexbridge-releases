@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.53",
-    "sha256":  "e78105d666def65368652a894fcf10cd3e7177b24d5c8daec24f3663fb8d6921",
-    "notes":  "0.2.53：检查更新不会再拿到 CDN 旧清单（raw 源加时间戳破缓存；配了 Token 时优先走 api.github.com）；应用中心第三方应用同步 GitHub、文件夹自动打包、同名=更新、换机自动下载校验；会话改名/归档/删除。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.53/codexbridge-update.zip",
-    "size":  5183172,
-    "publishedAt":  "2026-10-23T12:05:21.0346118+00:00"
+    "version":  "0.2.54",
+    "sha256":  "73398a1e951d01f0cc089f0b8c2f1b3cffe98c2aff845119cf24504b3a4ea12a",
+    "notes":  "0.2.54：「检查更新」强制刷新清单（不吃 10 分钟缓存）；发布校验改走 GitHub API，刚发布不再误报；应用中心第三方同步 GitHub / 文件夹自动打包 / 同名=更新；会话改名/归档/删除。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.54/codexbridge-update.zip",
+    "size":  5183257,
+    "publishedAt":  "2026-10-23T12:13:49.4918914+00:00"
 }
