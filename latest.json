@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.54",
-    "sha256":  "73398a1e951d01f0cc089f0b8c2f1b3cffe98c2aff845119cf24504b3a4ea12a",
-    "notes":  "0.2.54：「检查更新」强制刷新清单（不吃 10 分钟缓存）；发布校验改走 GitHub API，刚发布不再误报；应用中心第三方同步 GitHub / 文件夹自动打包 / 同名=更新；会话改名/归档/删除。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.54/codexbridge-update.zip",
-    "size":  5183257,
-    "publishedAt":  "2026-10-23T12:13:49.4918914+00:00"
+    "version":  "0.2.55",
+    "sha256":  "42585440a4808c413d165b8e4380a65146821fe3b28a1f4bd514f155475f58c9",
+    "notes":  "0.2.55：崩溃日志 + /api/diag 诊断接口 + 页面请求重试与真实报错 + 修复应用图标字面量转义。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.55/codexbridge-update.zip",
+    "size":  5186909,
+    "publishedAt":  "2026-10-23T12:39:23.3747497+00:00"
 }
