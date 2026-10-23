@@ -24,6 +24,18 @@
       "sha256": "2f555765b9cfca024fad86486079718ef91674a3ee8482c0aa7e5cd48fa773e2",
       "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-bandizip-setup-713f/BANDIZIP-SETUP.EXE",
       "updatedAt": 1792740198287
+    },
+    {
+      "id": "app-hdr-5bdf",
+      "name": "HDR缩略图插件",
+      "description": "第三方导入的安装包：安装=启动安装包，卸载=打开控制面板",
+      "version": "0.1.0",
+      "packaging": "installer",
+      "assetName": "HDR缩略图插件.exe",
+      "size": 2242393,
+      "sha256": "705d743e28b487e34a4a7245a0dbc303a10e45ba0fd9e4da4101c8cdf506839a",
+      "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-hdr-5bdf/HDR.exe",
+      "updatedAt": 1792740206319
     }
   ]
 }
