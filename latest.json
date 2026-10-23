@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.56",
-    "sha256":  "31f51814ea97efa9043e6fbce14dafffa3af78a945e5b09826e453e06ccca3e7",
-    "notes":  "修复「本地对话」快捷方式误触发旧计划任务导致桥接退出的问题",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.56/codexbridge-update.zip",
-    "size":  5187046,
-    "publishedAt":  "2026-10-23T12:47:12.2738098+00:00"
+    "version":  "0.2.57",
+    "sha256":  "0fc3f2142470c57f8bfb28dc04adc7d1f86626e3622daff12e237556e15b6bef",
+    "notes":  "本地对话快捷方式改用 WMI 启动桥接，避免随父进程被终止",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.57/codexbridge-update.zip",
+    "size":  5187292,
+    "publishedAt":  "2026-10-23T12:55:11.9059544+00:00"
 }
