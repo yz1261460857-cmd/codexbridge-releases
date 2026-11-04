@@ -1,8 +1,8 @@
 {
-  "version": "0.2.70",
-  "sha256": "b71174962b352e4ff6dae2030aa8ffed85484101f676232957661084cacd8fb4",
-  "notes": "新增：第三方应用提供「下载安装包」「打开文件夹」两个按钮——只下载不安装，安装包落在桥接目录，自己手动装。\n改：应用中心按钮按来源分开——柜子/截图这类自家应用保持原来的安装、卸载、导出；第三方只有上面两个按钮。\n修：应用中心不再等云端清单才显示，本机列表立刻出来，连不上 GitHub 也不卡页面。\n修：发版脚本清理旧 Release 时不再误删 app-* 应用包（之前会导致别的电脑点「从云端安装」404）；release 脚本也打进安装包，避免升级后被旧脚本覆盖。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.70/codexbridge-update.zip",
-  "size": 6864137,
-  "publishedAt": "2026-11-04T18:50:23.5110049+00:00"
+  "version": "0.2.71",
+  "sha256": "ceb4aa9c12fcd58598ba57e93011181ebdfeddb0851db57d4c5bc3851faa5e75",
+  "notes": "柜子、截图改成三枚按钮：安装（或更新）、卸载、导出安装包；第三方应用仍是「下载安装包」「打开文件夹」两个按钮。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.71/codexbridge-update.zip",
+  "size": 6864256,
+  "publishedAt": "2026-11-04T19:10:40.0867267+00:00"
 }
