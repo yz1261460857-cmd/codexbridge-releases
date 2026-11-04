@@ -1,8 +1,8 @@
 {
-  "version": "0.2.61",
-  "sha256": "09028c96061241edb0b939e05a9eccb5ffd682019366cb73d6925187f2d884cd",
-  "notes": "托盘菜单“退出桥接”增加默认取消的二次确认，减少误触停止本地网页和微信服务的情况。完整安装包与更新包均已同步为 0.2.61。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.61/codexbridge-update.zip",
-  "size": 5211689,
-  "publishedAt": "2026-11-04T06:34:53.9888159+00:00"
+  "version": "0.2.62",
+  "sha256": "6408be5883c62fb5ed1b631f43d9ed4605eb0366c6828682bb93ee39d96f8175",
+  "notes": "截图功能从桥接托盘中移除；应用中心的独立 SnipStudio 保持安装/卸载控制。托盘启动固定使用 --no-snip。TypeScript 检查、托盘/安装器/升级器自检通过。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.62/codexbridge-update.zip",
+  "size": 5212034,
+  "publishedAt": "2026-11-04T08:54:54.1709983+00:00"
 }
