@@ -1,8 +1,8 @@
 {
-  "version": "0.2.65",
-  "sha256": "16d8566bb1938da23a3f5e7d0bcbbe0763e158d0a85c3dece12893f05ec0ca11",
-  "notes": "MiniFence 0.1.1 随桥接更新包分发；柜子支持在应用中心更新，并从 Alt+Tab 隐藏。升级包保留本机已有 API 配置，不内嵌凭据。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.65/codexbridge-update.zip",
-  "size": 6857199,
-  "publishedAt": "2026-11-04T11:06:37.4881797+00:00"
+  "version": "0.2.66",
+  "sha256": "dd35e307ceaeaa635aa861bbae12eb054166dc22eb3a9cd7c31074658e749c8f",
+  "notes": "修复应用中心更新已安装应用时未先关闭进程导致安装器取消；内置 MiniFence 0.1.1 柜子 Alt+Tab 修复。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.66/codexbridge-update.zip",
+  "size": 6857285,
+  "publishedAt": "2026-11-04T11:23:58.0073881+00:00"
 }
