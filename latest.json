@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.64",
-    "sha256":  "8c6164bc7a5e084332b8b5ee9afca79d63601c54f5675849b379b03e4c3333d9",
-    "notes":  "修复升级器识别已安装桥接目录：从 CodexBridge-Serve 任务读取服务启动脚本，并识别 E:\\CodexBridge\\bridge。保持截图插件独立于桥接。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.64/codexbridge-update.zip",
-    "size":  5212392,
-    "publishedAt":  "2026-11-04T10:10:35.8998065+00:00"
+  "version": "0.2.65",
+  "sha256": "16d8566bb1938da23a3f5e7d0bcbbe0763e158d0a85c3dece12893f05ec0ca11",
+  "notes": "MiniFence 0.1.1 随桥接更新包分发；柜子支持在应用中心更新，并从 Alt+Tab 隐藏。升级包保留本机已有 API 配置，不内嵌凭据。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.65/codexbridge-update.zip",
+  "size": 6857199,
+  "publishedAt": "2026-11-04T11:06:37.4881797+00:00"
 }
