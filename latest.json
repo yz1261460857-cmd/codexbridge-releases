@@ -1,8 +1,8 @@
 {
-  "version": "0.2.63",
-  "sha256": "9cb9ecaea2168f702f465b70d8a85733c820f26a1fa81db48922d981070bdaac",
-  "notes": "修复 CodexBridge 截图快捷键：插件关闭时不再注册 Alt+A，全局截图入口停用；应用中心 SnipStudio 仍可独立安装和卸载。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.63/codexbridge-update.zip",
-  "size": 5212334,
-  "publishedAt": "2026-11-04T09:55:51.7851107Z"
+    "version":  "0.2.64",
+    "sha256":  "8c6164bc7a5e084332b8b5ee9afca79d63601c54f5675849b379b03e4c3333d9",
+    "notes":  "修复升级器识别已安装桥接目录：从 CodexBridge-Serve 任务读取服务启动脚本，并识别 E:\\CodexBridge\\bridge。保持截图插件独立于桥接。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.64/codexbridge-update.zip",
+    "size":  5212392,
+    "publishedAt":  "2026-11-04T10:10:35.8998065+00:00"
 }
