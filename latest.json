@@ -1,8 +1,8 @@
 {
-  "version": "0.2.66",
-  "sha256": "dd35e307ceaeaa635aa861bbae12eb054166dc22eb3a9cd7c31074658e749c8f",
-  "notes": "修复应用中心更新已安装应用时未先关闭进程导致安装器取消；内置 MiniFence 0.1.1 柜子 Alt+Tab 修复。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.66/codexbridge-update.zip",
-  "size": 6857285,
-  "publishedAt": "2026-11-04T11:23:58.0073881+00:00"
+  "version": "0.2.67",
+  "sha256": "91f3ceb4b6164cd1453c57cc2fb2b112dd0702cc97f001b6b793bbe33c2ba56f",
+  "notes": "应用中心新增「云端可安装」：没配 GitHub Token 的电脑也能看到远端应用清单，点一下就能装；新增下载百分比、SHA-256 校验与独立安装进度页 /apps/progress。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.67/codexbridge-update.zip",
+  "size": 6861681,
+  "publishedAt": "2026-11-04T16:45:18.6163009+00:00"
 }
