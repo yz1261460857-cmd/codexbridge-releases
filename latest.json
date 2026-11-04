@@ -1,8 +1,8 @@
 {
-  "version": "0.2.62",
-  "sha256": "6408be5883c62fb5ed1b631f43d9ed4605eb0366c6828682bb93ee39d96f8175",
-  "notes": "截图功能从桥接托盘中移除；应用中心的独立 SnipStudio 保持安装/卸载控制。托盘启动固定使用 --no-snip。TypeScript 检查、托盘/安装器/升级器自检通过。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.62/codexbridge-update.zip",
-  "size": 5212034,
-  "publishedAt": "2026-11-04T08:54:54.1709983+00:00"
+  "version": "0.2.63",
+  "sha256": "9cb9ecaea2168f702f465b70d8a85733c820f26a1fa81db48922d981070bdaac",
+  "notes": "修复 CodexBridge 截图快捷键：插件关闭时不再注册 Alt+A，全局截图入口停用；应用中心 SnipStudio 仍可独立安装和卸载。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.63/codexbridge-update.zip",
+  "size": 5212334,
+  "publishedAt": "2026-11-04T09:55:51.7851107Z"
 }
