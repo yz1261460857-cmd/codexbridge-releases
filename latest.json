@@ -1,8 +1,8 @@
 {
-  "version": "0.2.67",
-  "sha256": "91f3ceb4b6164cd1453c57cc2fb2b112dd0702cc97f001b6b793bbe33c2ba56f",
-  "notes": "应用中心新增「云端可安装」：没配 GitHub Token 的电脑也能看到远端应用清单，点一下就能装；新增下载百分比、SHA-256 校验与独立安装进度页 /apps/progress。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.67/codexbridge-update.zip",
-  "size": 6861681,
-  "publishedAt": "2026-11-04T16:45:18.6163009+00:00"
+    "version":  "0.2.68",
+    "sha256":  "ce1db49991db311a6637b8f91b5785d4d71a495d2193eccc676b3f1faa01788f",
+    "notes":  "0.2.68\n\n- 修：启动安装包失败（被杀软拦截的 EACCES、文件类型不对）不再把整个桥接服务带走；只报一次失败，服务继续跑，托盘会自动补回来。\n- 改：安装进度不用再点开单独页面，进度条直接显示在对应应用下面（阶段 + 已下载 MB + 百分比）。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.68/codexbridge-update.zip",
+    "size":  6862496,
+    "publishedAt":  "2026-11-04T17:18:52.4683211+00:00"
 }
