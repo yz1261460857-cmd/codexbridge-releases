@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.59",
-    "sha256":  "803b249dbd4cdee8f44cfea111efa373ce2d36147eb12242e59a4dee29bae82e",
-    "notes":  "0.2.59：启动方式改为系统计划任务托管（CodexBridge-Serve，登录自启、wscript 隐藏窗口、掉线自动重启），安装/升级自动注册并清理旧 Run 自启项，卸载时注销任务。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.59/codexbridge-update.zip",
-    "size":  5210139,
-    "publishedAt":  "2026-10-23T14:03:12.3063500+00:00"
+  "version": "0.2.61",
+  "sha256": "09028c96061241edb0b939e05a9eccb5ffd682019366cb73d6925187f2d884cd",
+  "notes": "托盘菜单“退出桥接”增加默认取消的二次确认，减少误触停止本地网页和微信服务的情况。完整安装包与更新包均已同步为 0.2.61。",
+  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.61/codexbridge-update.zip",
+  "size": 5211689,
+  "publishedAt": "2026-11-04T06:34:53.9888159+00:00"
 }
