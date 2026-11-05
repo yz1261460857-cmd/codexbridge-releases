@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.74",
-    "sha256":  "b62b221d2521e91c17e64a0f91660a5c1c232e2333450989282f26f8ef534cd0",
-    "notes":  "把 GitHub 上传 Token 的输入框挪到「我 → 桥接设置」页（上一版放在了没有入口的抽屉里，找不到）；支持显示/记住/保存/忘记，保存即生效。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.74/codexbridge-update.zip",
-    "size":  6869706,
-    "publishedAt":  "2026-11-05T12:28:48.1296838+00:00"
+    "version":  "0.2.75",
+    "sha256":  "432c6daadb2796ddcbbc8ea5a69276070c2781dc171e139d8773ec55be434b6b",
+    "notes":  "- 修：删第三方应用不再留下「点 ✕ 删不掉」的死条目（先摘清单再删 Release，冲突自动重试）。\n- 修：云端项（本机无安装包）也能直接删除。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.75/codexbridge-update.zip",
+    "size":  6870716,
+    "publishedAt":  "2026-11-05T12:37:03.8732068+00:00"
 }
