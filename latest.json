@@ -1,8 +1,8 @@
 {
-  "version": "0.2.71",
-  "sha256": "ceb4aa9c12fcd58598ba57e93011181ebdfeddb0851db57d4c5bc3851faa5e75",
-  "notes": "柜子、截图改成三枚按钮：安装（或更新）、卸载、导出安装包；第三方应用仍是「下载安装包」「打开文件夹」两个按钮。",
-  "zipUrl": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.71/codexbridge-update.zip",
-  "size": 6864256,
-  "publishedAt": "2026-11-04T19:10:40.0867267+00:00"
+    "version":  "0.2.72",
+    "sha256":  "98facf64318a943d556c61325bfe4a2fe619ea55813ea7b5863fbe0ad8bbe464",
+    "notes":  "0.2.72\n\n- 新增：第三方应用名字右边多一个「×」，点它就能删——本机安装包、云端 Release、apps.json 条目一起删，别的电脑刷新之后也看不到这个应用了（删之前有一次确认）。\n- 修复：导入文件夹改成浏览器自带的选目录框，不再弹 Windows 那个跑到窗口后面的对话框（以前点了按钮会一直卡在「选择文件夹...」）。\n- 保持：柜子、截图仍是三枚按钮（安装/更新、卸载、导出安装包）；第三方仍是「下载安装包」+「打开文件夹」，只下载不自动安装。\n",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.72/codexbridge-update.zip",
+    "size":  6866098,
+    "publishedAt":  "2026-11-05T12:13:10.3716578+00:00"
 }
