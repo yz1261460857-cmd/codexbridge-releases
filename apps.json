@@ -60,18 +60,6 @@
       "sha256": "c54f447ccd217cb07aca6199722054dd0e2ae97b07aa946192cd4e21b3db7b68",
       "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-potplayersetup64-a8c6/PotPlayerSetup64.exe",
       "updatedAt": 1792740228750
-    },
-    {
-      "id": "app-f71b7d2ddc",
-      "name": "测试文件夹",
-      "description": "第三方导入的绿色软件：安装=解压到本地程序目录，卸载=删除目录",
-      "version": "0.1.0",
-      "packaging": "folder",
-      "assetName": "app-f71b7d2ddc-v0.1.0.zip",
-      "size": 340,
-      "sha256": "96abf1cd56656e4251aa6a8884a3ffd69e701af1edf0fec254d134ff5d42505c",
-      "url": "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/app-f71b7d2ddc/app-f71b7d2ddc-v0.1.0.zip",
-      "updatedAt": 1793880639767
     }
   ]
 }
