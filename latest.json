@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.73",
-    "sha256":  "265882a9ed444d72ab18d762768a656a6709f930dc4469915a330ae93d013bdb",
-    "notes":  "新增设置里的 GitHub 上传 Token 输入框（保存即生效）；第三方应用加同步标签：已上传 / 仅本机 / 云端；没配 Token 时导入不再报错，只标成仅本机。",
-    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.73/codexbridge-update.zip",
-    "size":  6867681,
-    "publishedAt":  "2026-11-05T12:22:52.9178963+00:00"
+    "version":  "0.2.74",
+    "sha256":  "b62b221d2521e91c17e64a0f91660a5c1c232e2333450989282f26f8ef534cd0",
+    "notes":  "把 GitHub 上传 Token 的输入框挪到「我 → 桥接设置」页（上一版放在了没有入口的抽屉里，找不到）；支持显示/记住/保存/忘记，保存即生效。",
+    "zipUrl":  "https://github.com/yz1261460857-cmd/codexbridge-releases/releases/download/v0.2.74/codexbridge-update.zip",
+    "size":  6869706,
+    "publishedAt":  "2026-11-05T12:28:48.1296838+00:00"
 }
